@@ -1,7 +1,7 @@
-import 'dotenv/config';
+// import 'dotenv/config';
 import { App } from './app/app.module';
 
-const port = Number(process.env.SERVER_PORT) || null;
+const port = Number(process.env.PORT) || null;
 
 const app = new App({ port });
 
