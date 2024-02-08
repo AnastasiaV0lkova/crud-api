@@ -48,4 +48,4 @@
       "object-curly-spacing": ["warn", "always"],
       "spaced-comment": ["error", "always", { "markers": ["!", "?", "//", "todo", "*"] }]
     }
-  }``
+  }
